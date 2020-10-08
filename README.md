@@ -1,3 +1,3 @@
 # NightVisionMods
 
-MelonLoader mods for the game Nightvision
+These mods require [MelonLoader](https://melonwiki.xyz/#/?id=automated-installation).
